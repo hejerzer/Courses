@@ -9,4 +9,6 @@ Start by slecting which course you want to learn, Scripting, Modeling, etc...
 
 By the end you will finally be able to create games all alone without any help.
 
+You will encounter many grammatical errors.
+
 Good luck!
